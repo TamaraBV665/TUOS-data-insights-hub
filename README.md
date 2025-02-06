@@ -28,11 +28,9 @@ This repository enhances code reusability, collaboration, and efficiency, helpin
  ┣ 📜 README.md  
 
 # 🔽 How to Use
-1️⃣ Clone the repository:
-
-git clone https://github.com/username/university-data-hub.git
-2️⃣ Browse relevant folders for SQL, Power BI, or R scripts
-3️⃣ Follow documentation in each folder for usage instructions
+## 1️⃣ Clone the repository: git clone https://github.com/username/university-data-hub.git
+## 2️⃣ Browse relevant folders for SQL, Power BI, or R scripts
+## 3️⃣ Follow the documentation in each folder for usage instructions
 
 # 👥 Contributing
 We welcome contributions! If you have useful scripts or improvements, please:
