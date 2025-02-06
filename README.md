@@ -1,16 +1,16 @@
 # TUOS-data-insights-hub
 University Data Insights Hub – A centralised repository for SQL, Power BI (DAX), R, Python and more providing reusable scripts, dashboards, and best practices for data analysis and reporting. Designed to streamline workflows, ensure code reusability, and support collaboration across teams. Ideal for anyone involved in data-related work.
 
-# 🚀 What is planned Inside?
+## 🚀 What is planned Inside?
 ✔ SQL Scripts – Optimised queries, ETL processes, and database management
 ✔ Power BI Templates – Prebuilt dashboards, custom visuals, and DAX formulas
 ✔ R Code – Data cleaning, automation scripts, visualisations (RMarkdown, Quatro)
 ✔ Python – Data cleaning, analysis
 
-# 🎯 Purpose
+## 🎯 Purpose
 This repository enhances code reusability, collaboration, and efficiency, helping colleagues across the university to collaborate, reuse and and streamline workflow.
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 📦 TUOS-data-insights-hub  
  ┣ 📂 sql  
@@ -27,17 +27,17 @@ This repository enhances code reusability, collaboration, and efficiency, helpin
  ┃ ┣ 📜 visualisation.R
  ┣ 📜 README.md  
 
-# 🔽 How to Use
-## 1️⃣ Clone the repository: git clone https://github.com/username/university-data-hub.git
-## 2️⃣ Browse relevant folders for SQL, Power BI, or R scripts
-## 3️⃣ Follow the documentation in each folder for usage instructions
+## 🔽 How to Use
+### 1️⃣ Clone the repository: git clone https://github.com/username/university-data-hub.git
+### 2️⃣ Browse relevant folders for SQL, Power BI, or R scripts
+### 3️⃣ Follow the documentation in each folder for usage instructions
 
-# 👥 Contributing
+## 👥 Contributing
 We welcome contributions! If you have useful scripts or improvements, please:
 
 Fork the repo
 Create a new branch (feature-your-script)
 Submit a pull request
 
-# 📧 Contact
+## 📧 Contact
 For questions or suggestions, contact [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/TamaraBV665)
