@@ -8,7 +8,7 @@ University Data Insights Hub – A centralised repository for SQL, Power BI (DAX
 ✔ Python – Data cleaning, analysis
 
 ## 🎯 Purpose
-This repository enhances code reusability, collaboration, and efficiency, helping colleagues across the university to collaborate, reuse and and streamline workflow.
+This repository enhances code reusability, collaboration, and efficiency, helping colleagues across the university collaborate, reuse, and streamline workflow.
 
 ## 📂 Repository Structure
 
@@ -27,10 +27,12 @@ This repository enhances code reusability, collaboration, and efficiency, helpin
  ┃ ┣ 📜 visualisation.R
  ┣ 📜 README.md  
 
+
 ## 🔽 How to Use
-### 1️⃣ Clone the repository: git clone https://github.com/username/university-data-hub.git
+### 1️⃣ Clone the repository: git clone https://github.com/<your-username>/TUOS-data-insights-hub.git
 ### 2️⃣ Browse relevant folders for SQL, Power BI, R, Python scripts
 ### 3️⃣ Follow the documentation in each folder for usage instructions
+
 
 ## 👥 Contributing
 We welcome contributions! If you have useful scripts or improvements, please:
