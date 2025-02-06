@@ -29,7 +29,7 @@ This repository enhances code reusability, collaboration, and efficiency, helpin
 
 ## 🔽 How to Use
 ### 1️⃣ Clone the repository: git clone https://github.com/username/university-data-hub.git
-### 2️⃣ Browse relevant folders for SQL, Power BI, or R scripts
+### 2️⃣ Browse relevant folders for SQL, Power BI, R, Python scripts
 ### 3️⃣ Follow the documentation in each folder for usage instructions
 
 ## 👥 Contributing
