@@ -42,4 +42,4 @@ Create a new branch (feature-your-script)
 Submit a pull request
 
 ## 📧 Contact
-For questions or suggestions, contact [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/TamaraBV665)
+For questions or suggestions, contact us [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/TamaraBV665)
