@@ -20,11 +20,11 @@ This repository enhances code reusability, collaboration, and efficiency, helpin
  ┃ ┣ 📜 dashboard-template.pbit  
  ┃ ┣ 📜 dax-measures.md  
  ┣ 📂 r-scripts  
- ┃ ┣ 📜 data-cleaning.R  
- ┃ ┣ 📜 visualisation.R  
+ ┃ ┣ 📜 data-cleaning.Rmd 
+ ┃ ┣ 📜 visualisation.Rmd  
  ┣ 📂 Python-scripts  
- ┃ ┣ 📜 data-cleaning.R  
- ┃ ┣ 📜 visualisation.R
+ ┃ ┣ 📜 data-cleaning.py 
+ ┃ ┣ 📜 visualisation.py
  <br>┣ 📜 README.md  
 
 
